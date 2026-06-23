@@ -31,14 +31,18 @@ Cara Menjalankan Aplikasi
   Logout dari sistem
 
 Screenshot Aplikasi
-Login Form
+1. Login Form
+   
 <img width="325" height="248" alt="Screenshot 2026-06-22 191627" src="https://github.com/user-attachments/assets/869367ab-43cd-4d9e-824a-a1f159a8ebac" />
 
-Menu Utama
+2. Menu Utama
+   
 <img width="380" height="290" alt="Screenshot 2026-06-22 192238" src="https://github.com/user-attachments/assets/96213510-1ed2-4763-865f-b9599db1caec" />
 
-Form Data Kacamata
+3. Form Data Kacamata
+   
 <img width="471" height="355" alt="Screenshot 2026-06-22 192451" src="https://github.com/user-attachments/assets/135fa35f-2406-4785-bc2a-d8a77decde77" />
 
-Form Data Resep
+4. Form Data Resep
+
 <img width="470" height="389" alt="Screenshot 2026-06-22 194749" src="https://github.com/user-attachments/assets/cdb0a8ed-8b72-4336-8f1c-e174344db719" />
