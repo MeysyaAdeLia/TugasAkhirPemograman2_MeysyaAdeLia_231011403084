@@ -1,6 +1,9 @@
 Judul : APLIKASI OPTIK BERBASIS JAVA SWING DAN MYSQL
+
 Nama  : Meysya Ade Lia
+
 NIM   : 231011403084
+
 Objek : Optik	Kacamata & Resep (kode, nama, ukuran lensa, harga)
 
 Cara Menjalankan Aplikasi
