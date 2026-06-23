@@ -1,0 +1,12 @@
+# NetBeans
+nbproject/private/
+
+# Build output
+build/
+dist/
+
+# Java
+*.class
+
+# Logs
+*.log
